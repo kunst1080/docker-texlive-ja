@@ -14,5 +14,4 @@ RUN apt-get -y install \
         task-japanese \
         texlive-full \
         fonts-noto-color-emoji \
-        fonts-freefont \
     && pip3 install pygments
